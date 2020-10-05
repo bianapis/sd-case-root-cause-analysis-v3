@@ -1,0 +1,14 @@
+{
+  "operationsandServicingIssueAnalysisPreconditions" : "operationsandServicingIssueAnalysisPreconditions",
+  "operationsandServicingIssueAnalysis" : "operationsandServicingIssueAnalysis",
+  "operationsandServicingIssueAnalysisExecuteActionTaskRecord" : {},
+  "operationsandServicingIssueAnalysisServiceInputsandOuputs" : "operationsandServicingIssueAnalysisServiceInputsandOuputs",
+  "executeResponseRecord" : {},
+  "operationsandServicingIssueAnalysisAnalysisSchedule" : "operationsandServicingIssueAnalysisAnalysisSchedule",
+  "operationsandServicingIssueAnalysisServiceWorkProduct" : "operationsandServicingIssueAnalysisServiceWorkProduct",
+  "operationsandServicingIssueAnalysisServiceDescription" : "operationsandServicingIssueAnalysisServiceDescription",
+  "operationsandServicingIssueAnalysisVersionNumber" : "operationsandServicingIssueAnalysisVersionNumber",
+  "operationsandServicingIssueAnalysisExecuteActionTaskReference" : "OASIAEATR701562",
+  "operationsandServicingIssueAnalysisExecuteRecordReference" : "OASIAERR703052",
+  "operationsandServicingIssueAnalysisServiceType" : "operationsandServicingIssueAnalysisServiceType"
+}

@@ -1,0 +1,13 @@
+{
+  "operationsandServicingIssueAnalysisPreconditions" : "operationsandServicingIssueAnalysisPreconditions",
+  "operationsandServicingIssueAnalysis" : "operationsandServicingIssueAnalysis",
+  "operationsandServicingIssueAnalysisServiceInputsandOuputs" : "operationsandServicingIssueAnalysisServiceInputsandOuputs",
+  "updateResponseRecord" : {},
+  "operationsandServicingIssueAnalysisAnalysisSchedule" : "operationsandServicingIssueAnalysisAnalysisSchedule",
+  "operationsandServicingIssueAnalysisServiceWorkProduct" : "operationsandServicingIssueAnalysisServiceWorkProduct",
+  "operationsandServicingIssueAnalysisUpdateActionTaskRecord" : {},
+  "operationsandServicingIssueAnalysisServiceDescription" : "operationsandServicingIssueAnalysisServiceDescription",
+  "operationsandServicingIssueAnalysisVersionNumber" : "operationsandServicingIssueAnalysisVersionNumber",
+  "operationsandServicingIssueAnalysisUpdateActionTaskReference" : "OASIAUATR734526",
+  "operationsandServicingIssueAnalysisServiceType" : "operationsandServicingIssueAnalysisServiceType"
+}

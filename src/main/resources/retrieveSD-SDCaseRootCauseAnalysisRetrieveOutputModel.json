@@ -1,0 +1,39 @@
+{
+  "caseRootCauseAnalysisRetrieveActionResponse" : "caseRootCauseAnalysisRetrieveActionResponse",
+  "caseRootCauseAnalysisRetrieveActionTaskRecord" : {},
+  "caseRootCauseAnalysisOfferedService" : {
+    "caseRootCauseAnalysisServiceReference" : "776158",
+    "caseRootCauseAnalysisServiceRecord" : {
+      "caseRootCauseAnalysisServiceSchedule" : "caseRootCauseAnalysisServiceSchedule",
+      "caseRootCauseAnalysisServiceVersion" : "caseRootCauseAnalysisServiceVersion",
+      "caseRootCauseAnalysisServicePoliciesandGuidelines" : {
+        "caseRootCauseAnalysisServiceIntendedUses" : "caseRootCauseAnalysisServiceIntendedUses",
+        "caseRootCauseAnalysisServicePricingandTerms" : "caseRootCauseAnalysisServicePricingandTerms",
+        "caseRootCauseAnalysisServiceEligibility" : "caseRootCauseAnalysisServiceEligibility"
+      },
+      "caseRootCauseAnalysisServiceType" : "caseRootCauseAnalysisServiceType",
+      "caseRootCauseAnalysisServiceDescription" : "caseRootCauseAnalysisServiceDescription"
+    }
+  },
+  "caseRootCauseAnalysisRetrieveActionTaskReference" : "SRATR795161",
+  "caseRootCauseAnalysisRetrieveActionRecord" : {
+    "caseRootCauseAnalysisPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "caseRootCauseAnalysisActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  }
+}

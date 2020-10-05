@@ -1,0 +1,11 @@
+{
+  "customerCaseRootCauseAnalysisExecuteActionTaskRecord" : {},
+  "executeRecordReference" : "ERR760637",
+  "customerCaseRootCauseAnalysisExecuteActionTaskReference" : "CCRCAEATR793449",
+  "customerCaseRootCauseAnalysisRequest" : "customerCaseRootCauseAnalysisRequest",
+  "executeResponseRecord" : {},
+  "customerCaseRootCauseAnalysisUsageLog" : "customerCaseRootCauseAnalysisUsageLog",
+  "customerCaseRootCauseAnalysisStatus" : "customerCaseRootCauseAnalysisStatus",
+  "customerCaseRootCauseAnalysisParameterType" : "customerCaseRootCauseAnalysisParameterType",
+  "customerCaseRootCauseAnalysisSelectedOption" : "customerCaseRootCauseAnalysisSelectedOption"
+}

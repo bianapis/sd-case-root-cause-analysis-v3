@@ -1,0 +1,22 @@
+{
+  "customerCaseRootCauseAnalysisSchedule" : "customerCaseRootCauseAnalysisSchedule",
+  "customerCaseRootCauseAnalysisRequest" : "customerCaseRootCauseAnalysisRequest",
+  "customerCaseRootCauseAnalysisInstanceAnalysis" : {
+    "customerCaseRootCauseAnalysisInstanceAnalysisData" : "customerCaseRootCauseAnalysisInstanceAnalysisData",
+    "customerCaseRootCauseAnalysisInstanceAnalysisReportType" : "customerCaseRootCauseAnalysisInstanceAnalysisReportType",
+    "customerCaseRootCauseAnalysisInstanceAnalysisReport" : {}
+  },
+  "customerCaseRootCauseAnalysisUsageLog" : "customerCaseRootCauseAnalysisUsageLog",
+  "customerCaseRootCauseAnalysisRetrieveActionResponse" : "customerCaseRootCauseAnalysisRetrieveActionResponse",
+  "customerCaseRootCauseAnalysisStatus" : "customerCaseRootCauseAnalysisStatus",
+  "customerCaseRootCauseAnalysisRequesterReference" : "CCRCARR789603",
+  "customerCaseRootCauseAnalysisRetrieveActionTaskRecord" : {},
+  "customerCaseRootCauseAnalysisParameterType" : "customerCaseRootCauseAnalysisParameterType",
+  "customerCaseRootCauseAnalysisSelectedOption" : "customerCaseRootCauseAnalysisSelectedOption",
+  "customerCaseRootCauseAnalysisInstanceReportRecord" : {
+    "customerCaseRootCauseAnalysisInstanceReportType" : "customerCaseRootCauseAnalysisInstanceReportType",
+    "customerCaseRootCauseAnalysisInstanceReport" : {},
+    "customerCaseRootCauseAnalysisInstanceReportData" : "customerCaseRootCauseAnalysisInstanceReportData"
+  },
+  "customerCaseRootCauseAnalysisRetrieveActionTaskReference" : "CCRCARATR764351"
+}

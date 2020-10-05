@@ -1,0 +1,11 @@
+{
+  "requestRecordReference" : "RRR791409",
+  "customerCaseRootCauseAnalysisRequest" : "customerCaseRootCauseAnalysisRequest",
+  "customerCaseRootCauseAnalysisUsageLog" : "customerCaseRootCauseAnalysisUsageLog",
+  "customerCaseRootCauseAnalysisStatus" : "customerCaseRootCauseAnalysisStatus",
+  "customerCaseRootCauseAnalysisRequestActionTaskRecord" : {},
+  "customerCaseRootCauseAnalysisParameterType" : "customerCaseRootCauseAnalysisParameterType",
+  "customerCaseRootCauseAnalysisRequestActionTaskReference" : "CCRCARATR725676",
+  "customerCaseRootCauseAnalysisSelectedOption" : "customerCaseRootCauseAnalysisSelectedOption",
+  "requestResponseRecord" : {}
+}

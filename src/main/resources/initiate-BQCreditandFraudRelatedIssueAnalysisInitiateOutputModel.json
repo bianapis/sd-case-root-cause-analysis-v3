@@ -1,0 +1,15 @@
+{
+  "creditandFraudRelatedIssueAnalysisServiceName" : "creditandFraudRelatedIssueAnalysisServiceName",
+  "creditandFraudRelatedIssueAnalysisAnalysisSchedule" : "creditandFraudRelatedIssueAnalysisAnalysisSchedule",
+  "creditandFraudRelatedIssueAnalysisInstanceStatus" : "creditandFraudRelatedIssueAnalysisInstanceStatus",
+  "creditandFraudRelatedIssueAnalysis" : "creditandFraudRelatedIssueAnalysis",
+  "creditandFraudRelatedIssueAnalysisServiceType" : "creditandFraudRelatedIssueAnalysisServiceType",
+  "creditandFraudRelatedIssueAnalysisServiceWorkProduct" : "creditandFraudRelatedIssueAnalysisServiceWorkProduct",
+  "creditandFraudRelatedIssueAnalysisServiceInputsandOuputs" : "creditandFraudRelatedIssueAnalysisServiceInputsandOuputs",
+  "creditandFraudRelatedIssueAnalysisVersionNumber" : "creditandFraudRelatedIssueAnalysisVersionNumber",
+  "creditandFraudRelatedIssueAnalysisPreconditions" : "creditandFraudRelatedIssueAnalysisPreconditions",
+  "creditandFraudRelatedIssueAnalysisServiceDescription" : "creditandFraudRelatedIssueAnalysisServiceDescription",
+  "creditandFraudRelatedIssueAnalysisInstanceReference" : "CAFRIAIR791899",
+  "creditandFraudRelatedIssueAnalysisInitiateActionRecord" : {},
+  "creditandFraudRelatedIssueAnalysisInitiateActionReference" : "CAFRIAIAR758396"
+}

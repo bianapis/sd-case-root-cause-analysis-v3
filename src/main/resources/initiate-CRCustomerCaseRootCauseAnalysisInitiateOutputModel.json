@@ -1,0 +1,11 @@
+{
+  "customerCaseRootCauseAnalysisRequest" : "customerCaseRootCauseAnalysisRequest",
+  "customerCaseRootCauseAnalysisInstanceReference" : "CCRCAIR755302",
+  "customerCaseRootCauseAnalysisUsageLog" : "customerCaseRootCauseAnalysisUsageLog",
+  "customerCaseRootCauseAnalysisInitiateActionRecord" : {},
+  "customerCaseRootCauseAnalysisStatus" : "customerCaseRootCauseAnalysisStatus",
+  "customerCaseRootCauseAnalysisInstanceStatus" : "customerCaseRootCauseAnalysisInstanceStatus",
+  "customerCaseRootCauseAnalysisParameterType" : "customerCaseRootCauseAnalysisParameterType",
+  "customerCaseRootCauseAnalysisSelectedOption" : "customerCaseRootCauseAnalysisSelectedOption",
+  "customerCaseRootCauseAnalysisInitiateActionReference" : "CCRCAIAR785463"
+}

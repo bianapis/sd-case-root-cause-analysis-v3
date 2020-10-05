@@ -1,0 +1,25 @@
+{
+  "operationsandServicingIssueAnalysis" : "operationsandServicingIssueAnalysis",
+  "operationsandServicingIssueAnalysisInstanceAnalysis" : {
+    "operationsandServicingIssueAnalysisInstanceAnalysisRecord" : {},
+    "operationsandServicingIssueAnalysisInstanceAnalysisReportType" : "operationsandServicingIssueAnalysisInstanceAnalysisReportType",
+    "operationsandServicingIssueAnalysisInstanceAnalysisReport" : {},
+    "operationsandServicingIssueAnalysisInstanceAnalysisParameters" : "operationsandServicingIssueAnalysisInstanceAnalysisParameters"
+  },
+  "operationsandServicingIssueAnalysisRetrieveActionTaskRecord" : {},
+  "operationsandServicingIssueAnalysisAnalysisSchedule" : "operationsandServicingIssueAnalysisAnalysisSchedule",
+  "operationsandServicingIssueAnalysisServiceWorkProduct" : "operationsandServicingIssueAnalysisServiceWorkProduct",
+  "operationsandServicingIssueAnalysisVersionNumber" : "operationsandServicingIssueAnalysisVersionNumber",
+  "operationsandServicingIssueAnalysisPreconditions" : "operationsandServicingIssueAnalysisPreconditions",
+  "operationsandServicingIssueAnalysisServiceInputsandOuputs" : "operationsandServicingIssueAnalysisServiceInputsandOuputs",
+  "operationsandServicingIssueAnalysisRetrieveActionTaskReference" : "OASIARATR785334",
+  "operationsandServicingIssueAnalysisRetrieveActionResponse" : "operationsandServicingIssueAnalysisRetrieveActionResponse",
+  "operationsandServicingIssueAnalysisServiceDescription" : "operationsandServicingIssueAnalysisServiceDescription",
+  "operationsandServicingIssueAnalysisInstanceReport" : {
+    "operationsandServicingIssueAnalysisInstanceReportParameters" : "operationsandServicingIssueAnalysisInstanceReportParameters",
+    "operationsandServicingIssueAnalysisInstanceReportRecord" : {},
+    "operationsandServicingIssueAnalysisInstanceReportType" : "operationsandServicingIssueAnalysisInstanceReportType",
+    "operationsandServicingIssueAnalysisInstanceReport" : {}
+  },
+  "operationsandServicingIssueAnalysisServiceType" : "operationsandServicingIssueAnalysisServiceType"
+}

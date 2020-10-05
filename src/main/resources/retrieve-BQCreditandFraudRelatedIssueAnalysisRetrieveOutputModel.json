@@ -1,0 +1,26 @@
+{
+  "creditandFraudRelatedIssueAnalysisServiceName" : "creditandFraudRelatedIssueAnalysisServiceName",
+  "creditandFraudRelatedIssueAnalysisInstanceReport" : {
+    "creditandFraudRelatedIssueAnalysisInstanceReportRecord" : {},
+    "creditandFraudRelatedIssueAnalysisInstanceReport" : {},
+    "creditandFraudRelatedIssueAnalysisInstanceReportType" : "creditandFraudRelatedIssueAnalysisInstanceReportType",
+    "creditandFraudRelatedIssueAnalysisInstanceReportParameters" : "creditandFraudRelatedIssueAnalysisInstanceReportParameters"
+  },
+  "creditandFraudRelatedIssueAnalysisAnalysisSchedule" : "creditandFraudRelatedIssueAnalysisAnalysisSchedule",
+  "creditandFraudRelatedIssueAnalysis" : "creditandFraudRelatedIssueAnalysis",
+  "creditandFraudRelatedIssueAnalysisServiceType" : "creditandFraudRelatedIssueAnalysisServiceType",
+  "creditandFraudRelatedIssueAnalysisServiceWorkProduct" : "creditandFraudRelatedIssueAnalysisServiceWorkProduct",
+  "creditandFraudRelatedIssueAnalysisServiceInputsandOuputs" : "creditandFraudRelatedIssueAnalysisServiceInputsandOuputs",
+  "creditandFraudRelatedIssueAnalysisVersionNumber" : "creditandFraudRelatedIssueAnalysisVersionNumber",
+  "creditandFraudRelatedIssueAnalysisRetrieveActionResponse" : "creditandFraudRelatedIssueAnalysisRetrieveActionResponse",
+  "creditandFraudRelatedIssueAnalysisPreconditions" : "creditandFraudRelatedIssueAnalysisPreconditions",
+  "creditandFraudRelatedIssueAnalysisServiceDescription" : "creditandFraudRelatedIssueAnalysisServiceDescription",
+  "creditandFraudRelatedIssueAnalysisRetrieveActionTaskRecord" : {},
+  "creditandFraudRelatedIssueAnalysisInstanceAnalysis" : {
+    "creditandFraudRelatedIssueAnalysisInstanceAnalysisReportType" : "creditandFraudRelatedIssueAnalysisInstanceAnalysisReportType",
+    "creditandFraudRelatedIssueAnalysisInstanceAnalysisReport" : {},
+    "creditandFraudRelatedIssueAnalysisInstanceAnalysisParameters" : "creditandFraudRelatedIssueAnalysisInstanceAnalysisParameters",
+    "creditandFraudRelatedIssueAnalysisInstanceAnalysisRecord" : {}
+  },
+  "creditandFraudRelatedIssueAnalysisRetrieveActionTaskReference" : "CAFRIARATR732643"
+}

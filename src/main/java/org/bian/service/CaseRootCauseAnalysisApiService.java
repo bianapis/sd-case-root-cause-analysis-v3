@@ -1,0 +1,56 @@
+/**
+ * @author Virtusa
+ */
+package org.bian.service;
+
+import java.util.List;
+
+import org.bian.dto.*;
+
+public interface CaseRootCauseAnalysisApiService {
+
+	SDCaseRootCauseAnalysisActivateOutputModel activate(SDCaseRootCauseAnalysisActivateInputModel request);
+	
+	SDCaseRootCauseAnalysisConfigureOutputModel configure(String sdReferenceId, SDCaseRootCauseAnalysisConfigureInputModel request);
+	
+	BQCreditandFraudRelatedIssueAnalysisExecuteOutputModel executeCreditandfraudrelatedissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCreditandFraudRelatedIssueAnalysisExecuteInputModel request);
+	
+	BQOperationsandServicingIssueAnalysisExecuteOutputModel executeOperationsandservicingissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId, BQOperationsandServicingIssueAnalysisExecuteInputModel request);
+	
+	CRCustomerCaseRootCauseAnalysisExecuteOutputModel execute(String sdReferenceId, String crReferenceId, CRCustomerCaseRootCauseAnalysisExecuteInputModel request);
+	
+	SDCaseRootCauseAnalysisFeedbackOutputModel feedback(String sdReferenceId, SDCaseRootCauseAnalysisFeedbackInputModel request);
+	
+	CRCustomerCaseRootCauseAnalysisInitiateOutputModel initiate(String sdReferenceId, CRCustomerCaseRootCauseAnalysisInitiateInputModel request);
+	
+	BQCreditandFraudRelatedIssueAnalysisInitiateOutputModel initiateCreditandfraudrelatedissueanalysis(String sdReferenceId, String crReferenceId, BQCreditandFraudRelatedIssueAnalysisInitiateInputModel request);
+	
+	BQOperationsandServicingIssueAnalysisInitiateOutputModel initiateOperationsandservicingissueanalysis(String sdReferenceId, String crReferenceId, BQOperationsandServicingIssueAnalysisInitiateInputModel request);
+	
+	BQCreditandFraudRelatedIssueAnalysisRequestOutputModel requestCreditandfraudrelatedissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCreditandFraudRelatedIssueAnalysisRequestInputModel request);
+	
+	BQOperationsandServicingIssueAnalysisRequestOutputModel requestOperationsandservicingissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId, BQOperationsandServicingIssueAnalysisRequestInputModel request);
+	
+	CRCustomerCaseRootCauseAnalysisRequestOutputModel request(String sdReferenceId, String crReferenceId, CRCustomerCaseRootCauseAnalysisRequestInputModel request);
+	
+	CRCustomerCaseRootCauseAnalysisRetrieveOutputModel retrieve(String sdReferenceId, String crReferenceId);
+	
+	List<String> retrieveBQIds(String sdReferenceId, String crReferenceId, String behaviorQualifier);
+	
+	List<String> retrieveBQs();
+	
+	List<String> retrieveRefIds(String sdReferenceId);
+	
+	BQCreditandFraudRelatedIssueAnalysisRetrieveOutputModel retrieveCreditandfraudrelatedissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	BQOperationsandServicingIssueAnalysisRetrieveOutputModel retrieveOperationsandservicingissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	SDCaseRootCauseAnalysisRetrieveOutputModel retrieveSD(String sdReferenceId);
+	
+	CRCustomerCaseRootCauseAnalysisUpdateOutputModel update(String sdReferenceId, String crReferenceId, CRCustomerCaseRootCauseAnalysisUpdateInputModel request);
+	
+	BQCreditandFraudRelatedIssueAnalysisUpdateOutputModel updateCreditandfraudrelatedissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCreditandFraudRelatedIssueAnalysisUpdateInputModel request);
+	
+	BQOperationsandServicingIssueAnalysisUpdateOutputModel updateOperationsandservicingissueanalysis(String sdReferenceId, String crReferenceId, String bqReferenceId, BQOperationsandServicingIssueAnalysisUpdateInputModel request);
+	
+}

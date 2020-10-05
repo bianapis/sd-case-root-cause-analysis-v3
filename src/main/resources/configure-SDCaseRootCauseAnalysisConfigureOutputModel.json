@@ -1,0 +1,21 @@
+{
+  "caseRootCauseAnalysisServicingSessionStatus" : "caseRootCauseAnalysisServicingSessionStatus",
+  "caseRootCauseAnalysisConfigurationActionTaskReference" : "SCATR765419",
+  "caseRootCauseAnalysisConfigurationActionTaskRecord" : {},
+  "caseRootCauseAnalysisServiceConfigurationRecord" : {
+    "caseRootCauseAnalysisServiceAgreement" : {
+      "caseRootCauseAnalysisServiceAgreementTermsandConditions" : "caseRootCauseAnalysisServiceAgreementTermsandConditions",
+      "caseRootCauseAnalysisServiceAgreementReference" : "721156",
+      "caseRootCauseAnalysisServiceUserReference" : "733696"
+    },
+    "caseRootCauseAnalysisServiceConfigurationSettingDescription" : "caseRootCauseAnalysisServiceConfigurationSettingDescription",
+    "caseRootCauseAnalysisServiceConfigurationSetup" : {
+      "caseRootCauseAnalysisServiceConfigurationParameter" : "caseRootCauseAnalysisServiceConfigurationParameter"
+    },
+    "caseRootCauseAnalysisServiceStatus" : "caseRootCauseAnalysisServiceStatus",
+    "caseRootCauseAnalysisServiceSubscription" : {
+      "caseRootCauseAnalysisServiceSubscriberReference" : "756221",
+      "caseRootCauseAnalysisServiceSubscriberAccessProfile" : "caseRootCauseAnalysisServiceSubscriberAccessProfile"
+    }
+  }
+}

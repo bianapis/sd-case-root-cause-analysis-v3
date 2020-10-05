@@ -1,0 +1,10 @@
+{
+  "customerCaseRootCauseAnalysisUpdateActionTaskReference" : "CCRCAUATR790350",
+  "customerCaseRootCauseAnalysisRequest" : "customerCaseRootCauseAnalysisRequest",
+  "customerCaseRootCauseAnalysisUsageLog" : "customerCaseRootCauseAnalysisUsageLog",
+  "customerCaseRootCauseAnalysisStatus" : "customerCaseRootCauseAnalysisStatus",
+  "customerCaseRootCauseAnalysisUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerCaseRootCauseAnalysisParameterType" : "customerCaseRootCauseAnalysisParameterType",
+  "customerCaseRootCauseAnalysisSelectedOption" : "customerCaseRootCauseAnalysisSelectedOption"
+}
